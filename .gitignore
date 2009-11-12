@@ -1,0 +1,17 @@
+*.orig
+*.rej
+*~
+*.swp
+*.o
+*.log
+*.db
+*.pyc
+*.pyo
+*.gem
+pkg
+tmp
+temp
+backup
+index.yaml
+deploy.sh
+run.sh

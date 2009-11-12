@@ -1,0 +1,3 @@
+#Uncomment fields before use and type in correct credentials.
+JID=my@jabber.org/Resource
+PASSWORD=secret

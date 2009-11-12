@@ -1,0 +1,36 @@
+Work In Progress
+=================
+
+  Projects i'm currently working on or small scripts, not big enough to be a 
+  separate project.
+
+  ---
+  !!! Disclose: Some of scripts belongs to other people. I'm just using them.
+                All credits going to the authors.
+  ---
+             
+
+- python/   - Python-related stuff
+
+  * gmail.py - send an email via GMail smtp
+  * myproxy.cfg, myproxy.py - Twisted-based HTTP Proxy
+  * new_wave.py - create a new google wave from a robot
+  * notifyio-notify.py - notify.io client with python-notify notifications
+  * dot.xsend, xsend.py - send XMPP messages from the command line
+
+--- dive/ - "Dive into Python"
+
+    * openany.py, fetch.py, fetch2.py - HTTP requests experiments (headers etc.)
+
+- ruby/     - Ruby-related stuff
+
+  * bf_encrypt.rb, bf_decrypt.rb - Blowfish encrypt/decrypt
+  * chat.rb - AMQP-based chat
+  * contact_form.rb - Simple Rack-based contact form
+  * encrypt.rb - SSL encrypt/decrypt from Ruby
+  * ev_chat.rb - EventMachine-based chat
+  * kayac.rb - send XMPP message via HTTP (http://im.kayac.com/ webhook)
+  * mock_mail.rb - good for SMTP-related tests
+  * mock_web.rb - good for HTTP-related tests
+  * toxmpp.rb - small Rack-based application for sending XMPP messages in bulgarian
+  * twitstream.rb - Twitter Streaming API with Twitter::JSONStream and EventMachine
