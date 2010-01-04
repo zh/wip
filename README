@@ -17,6 +17,16 @@ Work In Progress
   * new_wave.py - create a new google wave from a robot
   * notifyio-notify.py - notify.io client with python-notify notifications
   * dot.xsend, xsend.py - send XMPP messages from the command line
+  * http_download.py - download with progress indicator
+  * zipper.py - .zip compressing from python
+
+--- xmpp/ - XMPP (jabber) experiments
+
+  * echobot.tac, echobot.py - twisted echo bot
+
+--- profile/ - HTTP profiling
+
+    * rrd.py - RRD python wrapper
 
 --- dive/ - "Dive into Python"
 
@@ -34,3 +44,7 @@ Work In Progress
   * mock_web.rb - good for HTTP-related tests
   * toxmpp.rb - small Rack-based application for sending XMPP messages in bulgarian
   * twitstream.rb - Twitter Streaming API with Twitter::JSONStream and EventMachine
+
+- misc/ - Shell etc. scripts
+
+  * setup-web2py.sh - easy web2py setup on debian/ubuntu (apt-get)
