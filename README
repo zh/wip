@@ -44,6 +44,7 @@ Work In Progress
   * mock_web.rb - good for HTTP-related tests
   * toxmpp.rb - small Rack-based application for sending XMPP messages in bulgarian
   * twitstream.rb - Twitter Streaming API with Twitter::JSONStream and EventMachine
+  * poorfiber - Thread based Fiber implementation for Ruby 1.8
 
 - misc/ - Shell etc. scripts
 
