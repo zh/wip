@@ -46,6 +46,8 @@ Work In Progress
   * twitstream.rb - Twitter Streaming API with Twitter::JSONStream and EventMachine
   * poorfiber - Thread based Fiber implementation for Ruby 1.8
 
+--- rubykai40 - Ruby Kansai Meeting #40 (EventMachine talk)
+
 - misc/ - Shell etc. scripts
 
   * setup-web2py.sh - easy web2py setup on debian/ubuntu (apt-get)

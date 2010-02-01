@@ -1,3 +1,4 @@
+# Origin: http://gist.github.com/4631
 # Poor Man's Fiber (API compatible Thread based Fiber implementation for Ruby 1.8)
 # (c) 2008 Aman Gupta (tmm1)
 
