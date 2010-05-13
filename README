@@ -51,3 +51,4 @@ Work In Progress
 - misc/ - Shell etc. scripts
 
   * setup-web2py.sh - easy web2py setup on debian/ubuntu (apt-get)
+  * gae_patch.diff - patch Google AppEngine Python SDK to work with MongoDB backend
