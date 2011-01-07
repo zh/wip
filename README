@@ -52,9 +52,9 @@ Work In Progress
 
 - js/ - JavaScript-related stuff
 
-  * ssh.js - SSH from node.js
   * relative_time.js - human-friendly time output
   * smtp.js - SMTP server written for node.js
+  * ssh.js - SSH from node.js
   * upload.js - upload file form processing with node.js
 
 - misc/ - Shell etc. scripts
