@@ -44,11 +44,19 @@ Work In Progress
   * mock_web.rb - good for HTTP-related tests
   * toxmpp.rb - small Rack-based application for sending XMPP messages in bulgarian
   * twitstream.rb - Twitter Streaming API with Twitter::JSONStream and EventMachine
+  * tweets.rb - Consuming Twitter Streaming API (EventMachine + Sinatra + Thin)
+  * tbot.rb - Jabber (XMPP) bot to trac a keyword on Twitter (Streaming API)
   * poorfiber - Thread based Fiber implementation for Ruby 1.8
 
 --- rubykai40 - Ruby Kansai Meeting #40 (EventMachine talk)
 
+- js/ - JavaScript-related stuff
+
+  * ssh.js - SSH from node.js
+
 - misc/ - Shell etc. scripts
 
-  * setup-web2py.sh - easy web2py setup on debian/ubuntu (apt-get)
+  * c10k-test-client.c - HTTP client for testing high connection concurrency
   * gae_patch.diff - patch Google AppEngine Python SDK to work with MongoDB backend
+  * nodejs-install.sh - install node.js, npm and hellonode
+  * setup-web2py.sh - easy web2py setup on debian/ubuntu (apt-get)
